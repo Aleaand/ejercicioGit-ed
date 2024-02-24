@@ -1,1 +1,2 @@
 Contenido de arch2.txt
+Contenido de arch2. Linea 2txt
